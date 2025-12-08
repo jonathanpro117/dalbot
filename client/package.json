@@ -1,0 +1,18 @@
+{
+  "name": "space-client",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0",
+    "socket.io-client": "^4.7.5"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}
